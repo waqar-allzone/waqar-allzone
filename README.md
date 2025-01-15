@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waqar-allzone
-- 👀 My hobby is learning reverse engineering 
+- 👀 My hobby is reverse engineering 
 - 🌱 My passion is MERN
 
 <!---
